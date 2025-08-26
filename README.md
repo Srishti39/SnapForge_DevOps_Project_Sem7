@@ -15,7 +15,7 @@ Along with the application, we are implementing DevOps practices such as version
 ## 🛠️ Tech Stack
 - **Frontend:** React, TypeScript, Vite, CSS
 - **Version Control:** GitHub
-- **CI/CD:** CircleCI or Jenkins
+- **CI/CD:** CircleCI
 - **Containerization:** Docker
 - **Cloud:** AWS EC2
 - **Monitoring:** Prometheus + Grafana
